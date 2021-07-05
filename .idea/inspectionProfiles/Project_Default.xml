@@ -1,0 +1,35 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="job.models.JobSeeker.objects" />
+          <option value="job.models.JobRecruiter.objects" />
+          <option value="digitalprofile.models.DigitalProfile.objects" />
+          <option value="digitalprofile.models.PersonalDetail.objects" />
+          <option value="digitalprofile.models.SocialMediaLinks.objects" />
+          <option value="digitalprofile.models.PaymentDetail.objects" />
+          <option value="digitalprofile.models.Gallery.objects" />
+          <option value="digitalfacilities.models.DigitalVisitingCard.objects" />
+          <option value="digitalfacilities.models.DigitalDiary.objects" />
+          <option value="digitalfacilities.models.DigitalGreetingCard.objects" />
+          <option value="ecommerce.models.Product.objects" />
+          <option value="ecommerce.models.RatingReview.objects" />
+          <option value="vendor.models.Vendor.objects" />
+          <option value="vendor.models.BusinessInformation.objects" />
+          <option value="vendor.models.BankDetails.objects" />
+          <option value="vendor.models.Services.objects" />
+          <option value="vendor.models.Vendor.id" />
+          <option value="ecommerce.models.Cart.objects" />
+          <option value="digitalprofile.models.Ecommerce.objects" />
+          <option value="digitalprofile.models.Services.objects" />
+          <option value="store.models.Toppings.objects" />
+          <option value="store.models.Pizza.objects" />
+          <option value="store.models.PizzaSize.objects" />
+          <option value="store.models.UserPizza.objects" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
