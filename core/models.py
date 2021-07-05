@@ -50,7 +50,7 @@ class SubscriptionPlans(models.Model):
     active=models.BooleanField(default=True)
     details=models.TextField(default="")
     quantity_product = models.IntegerField(default = 0)
-    quantity_accesserios = models.IntegerField(default = 0)
+    #quantity_accesserios = models.IntegerField(default = 0)
 
     def __str__(self):
         return self.name + " " + str(self.amount)
